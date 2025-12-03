@@ -32,4 +32,4 @@ function App() {
 }
 
 // export default 컴포넌트명;
-export default App;
+export default App; 
