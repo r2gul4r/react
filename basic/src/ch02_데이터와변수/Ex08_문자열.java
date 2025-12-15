@@ -20,9 +20,7 @@ public class Ex08_문자열 {
 		System.out.println(job);
 
 		// 특수 문자
-		String 자바 = "Java";
-		String str = "나는 "자바"를 배웁니다";
-		System.out.println(str);
+		System.out.println();
 	}
 
 }
